@@ -1,2 +1,2 @@
 # WebDatabase
-A MySql database hosted in an Apache Tomcat webserver - written in Java and MySql.
+A Java EE web application that stores employee information in a MySQL database and lets users retrieve or update information.
